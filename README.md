@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aman854477
-- 👀 I’m interested in data Analytics..
+- 👀 I’m interested in Data Analytics..
 - 🌱 I’m currently learning Data Analytcal Skills..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
