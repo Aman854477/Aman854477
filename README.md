@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Aman854477
--         Data Analyst
+- Aspiring Data Analyst with a strong foundation in data analytics. I recently completed [Master Certification in Data Analytics], and I’m passionate about turning data into actionable insights. Currently enhancing my skills with real-world projects in:
 
-<!---
-Aman854477/Aman854477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Data Cleaning & Visualization (Excel, Python, Power BI, Tableau)
+
+🐍 Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
+
+📂 SQL for querying databases
+
+🤖 Introductory Machine Learning (scikit-learn)
+
+
